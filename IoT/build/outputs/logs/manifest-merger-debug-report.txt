@@ -1,0 +1,119 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /root/AndroidStudioProjects/AndroidTemplate-string/AndroidManifest.xml:2:1-57:12
+	package
+		ADDED from /root/AndroidStudioProjects/AndroidTemplate-string/AndroidManifest.xml:3:5-42
+	android:versionName
+		ADDED from /root/AndroidStudioProjects/AndroidTemplate-string/AndroidManifest.xml:5:5-30
+		INJECTED from /root/AndroidStudioProjects/AndroidTemplate-string/AndroidManifest.xml
+		INJECTED from /root/AndroidStudioProjects/AndroidTemplate-string/AndroidManifest.xml
+	android:versionCode
+		ADDED from /root/AndroidStudioProjects/AndroidTemplate-string/AndroidManifest.xml:4:5-28
+		INJECTED from /root/AndroidStudioProjects/AndroidTemplate-string/AndroidManifest.xml
+		INJECTED from /root/AndroidStudioProjects/AndroidTemplate-string/AndroidManifest.xml
+	xmlns:android
+		ADDED from /root/AndroidStudioProjects/AndroidTemplate-string/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /root/AndroidStudioProjects/AndroidTemplate-string/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /root/AndroidStudioProjects/AndroidTemplate-string/AndroidManifest.xml:9:9-38
+	android:minSdkVersion
+		ADDED from /root/AndroidStudioProjects/AndroidTemplate-string/AndroidManifest.xml:8:9-35
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /root/AndroidStudioProjects/AndroidTemplate-string/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /root/AndroidStudioProjects/AndroidTemplate-string/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /root/AndroidStudioProjects/AndroidTemplate-string/AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from /root/AndroidStudioProjects/AndroidTemplate-string/AndroidManifest.xml:12:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /root/AndroidStudioProjects/AndroidTemplate-string/AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from /root/AndroidStudioProjects/AndroidTemplate-string/AndroidManifest.xml:13:22-77
+uses-permission#android.permission.INTERNET
+ADDED from /root/AndroidStudioProjects/AndroidTemplate-string/AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from /root/AndroidStudioProjects/AndroidTemplate-string/AndroidManifest.xml:14:22-64
+uses-permission#android.permission.CALL_PHONE
+ADDED from /root/AndroidStudioProjects/AndroidTemplate-string/AndroidManifest.xml:15:5-68
+	android:name
+		ADDED from /root/AndroidStudioProjects/AndroidTemplate-string/AndroidManifest.xml:15:22-66
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /root/AndroidStudioProjects/AndroidTemplate-string/AndroidManifest.xml:17:5-76
+	android:name
+		ADDED from /root/AndroidStudioProjects/AndroidTemplate-string/AndroidManifest.xml:17:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /root/AndroidStudioProjects/AndroidTemplate-string/AndroidManifest.xml:18:5-76
+	android:name
+		ADDED from /root/AndroidStudioProjects/AndroidTemplate-string/AndroidManifest.xml:18:22-73
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /root/AndroidStudioProjects/AndroidTemplate-string/AndroidManifest.xml:20:5-21:23
+	android:name
+		ADDED from /root/AndroidStudioProjects/AndroidTemplate-string/AndroidManifest.xml:20:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /root/AndroidStudioProjects/AndroidTemplate-string/AndroidManifest.xml:22:5-23:23
+	android:name
+		ADDED from /root/AndroidStudioProjects/AndroidTemplate-string/AndroidManifest.xml:22:22-76
+application
+ADDED from /root/AndroidStudioProjects/AndroidTemplate-string/AndroidManifest.xml:25:5-55:19
+	android:label
+		ADDED from /root/AndroidStudioProjects/AndroidTemplate-string/AndroidManifest.xml:29:9-41
+	android:allowBackup
+		ADDED from /root/AndroidStudioProjects/AndroidTemplate-string/AndroidManifest.xml:27:9-35
+	android:icon
+		ADDED from /root/AndroidStudioProjects/AndroidTemplate-string/AndroidManifest.xml:28:9-45
+	android:theme
+		ADDED from /root/AndroidStudioProjects/AndroidTemplate-string/AndroidManifest.xml:30:9-40
+	android:name
+		ADDED from /root/AndroidStudioProjects/AndroidTemplate-string/AndroidManifest.xml:26:9-70
+activity#com.example.androidtemplate.user.HomeActivity
+ADDED from /root/AndroidStudioProjects/AndroidTemplate-string/AndroidManifest.xml:31:9-32:76
+	android:name
+		ADDED from /root/AndroidStudioProjects/AndroidTemplate-string/AndroidManifest.xml:32:13-73
+activity#com.example.androidtemplate.user.LoginActivity
+ADDED from /root/AndroidStudioProjects/AndroidTemplate-string/AndroidManifest.xml:33:9-36:20
+	android:name
+		ADDED from /root/AndroidStudioProjects/AndroidTemplate-string/AndroidManifest.xml:34:13-74
+activity#com.example.androidtemplate.user.RegisterActivity
+ADDED from /root/AndroidStudioProjects/AndroidTemplate-string/AndroidManifest.xml:38:9-95
+	android:name
+		ADDED from /root/AndroidStudioProjects/AndroidTemplate-string/AndroidManifest.xml:38:19-83
+activity#com.example.androidtemplate.user.FindPasswordActivity
+ADDED from /root/AndroidStudioProjects/AndroidTemplate-string/AndroidManifest.xml:39:9-99
+	android:name
+		ADDED from /root/AndroidStudioProjects/AndroidTemplate-string/AndroidManifest.xml:39:19-87
+activity#com.example.androidtemplate.user.PersonalActivity
+ADDED from /root/AndroidStudioProjects/AndroidTemplate-string/AndroidManifest.xml:40:9-95
+	android:name
+		ADDED from /root/AndroidStudioProjects/AndroidTemplate-string/AndroidManifest.xml:40:19-83
+activity#com.example.androidtemplate.user.UpdatePasswordActivity
+ADDED from /root/AndroidStudioProjects/AndroidTemplate-string/AndroidManifest.xml:41:9-101
+	android:name
+		ADDED from /root/AndroidStudioProjects/AndroidTemplate-string/AndroidManifest.xml:41:19-89
+activity#com.example.androidtemplate.user.UpdateUserActivity
+ADDED from /root/AndroidStudioProjects/AndroidTemplate-string/AndroidManifest.xml:42:9-97
+	android:name
+		ADDED from /root/AndroidStudioProjects/AndroidTemplate-string/AndroidManifest.xml:42:19-85
+activity#com.example.androidtemplate.MainActivity
+ADDED from /root/AndroidStudioProjects/AndroidTemplate-string/AndroidManifest.xml:44:9-51:20
+	android:name
+		ADDED from /root/AndroidStudioProjects/AndroidTemplate-string/AndroidManifest.xml:44:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /root/AndroidStudioProjects/AndroidTemplate-string/AndroidManifest.xml:46:13-49:29
+action#android.intent.action.MAIN
+ADDED from /root/AndroidStudioProjects/AndroidTemplate-string/AndroidManifest.xml:47:17-69
+	android:name
+		ADDED from /root/AndroidStudioProjects/AndroidTemplate-string/AndroidManifest.xml:47:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /root/AndroidStudioProjects/AndroidTemplate-string/AndroidManifest.xml:48:17-77
+	android:name
+		ADDED from /root/AndroidStudioProjects/AndroidTemplate-string/AndroidManifest.xml:48:27-74
+activity#com.example.androidtemplate.DescActivity
+ADDED from /root/AndroidStudioProjects/AndroidTemplate-string/AndroidManifest.xml:52:9-59
+	android:name
+		ADDED from /root/AndroidStudioProjects/AndroidTemplate-string/AndroidManifest.xml:52:19-47
+activity#com.example.androidtemplate.SocketActivity
+ADDED from /root/AndroidStudioProjects/AndroidTemplate-string/AndroidManifest.xml:53:9-61
+	android:name
+		ADDED from /root/AndroidStudioProjects/AndroidTemplate-string/AndroidManifest.xml:53:19-49

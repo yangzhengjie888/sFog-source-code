@@ -1,0 +1,108 @@
+<!-- 文本输入 -->
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="@dimen/padding_common"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="微信："/>
+    <EditText
+        android:id="@+id/we_chat_et"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+</LinearLayout>
+
+
+    <!-- 下拉选择框 -->
+<LinearLayout
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:layout_marginBottom="@dimen/padding_common"
+android:orientation="horizontal">
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="性别："/>
+<Spinner
+    android:id="@+id/sex_sp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+</Spinner>
+</LinearLayout>
+
+
+    <!-- 按钮 -->
+<Button
+android:id="@+id/register_btn"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:padding="@dimen/padding_common"
+android:layout_marginTop="20dp"
+android:text="快速注册"
+android:textSize="@dimen/text_common"
+android:textColor="@android:color/white"
+android:background="@drawable/selector_button"/>
+
+
+    <!-- 带有标题的文本显示 -->
+<LinearLayout
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:layout_marginBottom="@dimen/padding_common"
+android:orientation="vertical">
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="微信："
+    android:textColor="@android:color/holo_blue_light"/>
+<TextView
+    android:id="@+id/we_chat_et"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingTop="5dp"
+    android:textSize="@dimen/text_common"
+    android:text="带有标题的文本显示"/>
+</LinearLayout>
+
+    <!-- ListView Item 左图片右两行文字 -->
+<LinearLayout
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:orientation="horizontal"
+android:gravity="center_vertical">
+<ImageView
+    android:id="@+id/img_iv"
+    android:layout_width="100dp"
+    android:layout_height="100dp"
+    android:padding="@dimen/padding_common"
+    android:src="@drawable/img_common_man"/>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_weight="1"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center_vertical"
+        android:text="字段一"
+        android:textSize="@dimen/text_big"
+        android:textStyle="bold"
+        android:id="@+id/field_one_tv" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:text="字段二"
+        android:id="@+id/field_two_tv"/>
+</LinearLayout>
+</LinearLayout>
+
+
+
+

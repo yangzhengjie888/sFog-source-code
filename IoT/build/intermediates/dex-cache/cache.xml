@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/root/AndroidStudioProjects/AndroidTemplate-string/libs/httpclient-4.3.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/root/AndroidStudioProjects/AndroidTemplate-string/build/intermediates/transforms/dex/debug/folders/1000/2/httpclient-4.3.6_aceac1c457c3f4032c877641ac87687012c181cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/AndroidStudioProjects/AndroidTemplate-string/libs/mail.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="36b5cee9ec42001a3d0358fdd75e99274e2599fb">
+        <dex dex="/root/AndroidStudioProjects/AndroidTemplate-string/build/intermediates/transforms/dex/debug/folders/1000/2/mail_19ffc2675bda2bc372c8faa63ab165fb61a7b0eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/AndroidStudioProjects/AndroidTemplate-string/libs/gson-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53bfcd3c8e310d1493b2691484525ed90b04e236">
+        <dex dex="/root/AndroidStudioProjects/AndroidTemplate-string/build/intermediates/transforms/dex/debug/folders/1000/2/gson-2.2.2_81d82db90fab8a66b3e3535bed9070062f41341c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/AndroidStudioProjects/AndroidTemplate-string/libs/butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/root/AndroidStudioProjects/AndroidTemplate-string/build/intermediates/transforms/dex/debug/folders/1000/2/butterknife-7.0.1_490210c12e667238492a447b60c51e4fa24f2365/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/AndroidStudioProjects/AndroidTemplate-string/libs/universal-image-loader-1.9.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="/root/AndroidStudioProjects/AndroidTemplate-string/build/intermediates/transforms/dex/debug/folders/1000/2/universal-image-loader-1.9.3_fbce2152bbc0a8cf762574f500dc21d29394b954/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/AndroidStudioProjects/AndroidTemplate-string/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1cde2cb5097b2dbd4207cf410eb8be144b74a6ed">
+        <dex dex="/root/AndroidStudioProjects/AndroidTemplate-string/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_435c6a813aed309d4d3e1f2f20e3f82ba2d4ed22/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/AndroidStudioProjects/AndroidTemplate-string/libs/android-support-v4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1dc1f63cee098b27db60b9a2833fd7ca58f89636">
+        <dex dex="/root/AndroidStudioProjects/AndroidTemplate-string/build/intermediates/transforms/dex/debug/folders/1000/2/android-support-v4_4cbf8f93231a8ec99eb127c588346d0edd4c821d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/AndroidStudioProjects/AndroidTemplate-string/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/root/AndroidStudioProjects/AndroidTemplate-string/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_837f7b5af0e4d61060510992a4188bb075e4a40a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/AndroidStudioProjects/AndroidTemplate-string/libs/android-async-http-1.4.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="77bbfe240e437ecb396d982afa0d3bd4f9090ba7">
+        <dex dex="/root/AndroidStudioProjects/AndroidTemplate-string/build/intermediates/transforms/dex/debug/folders/1000/2/android-async-http-1.4.8_b71c6b1ec2f2009933acfb782aaa969f2aaf1a2d/classes.dex" />
+    </item>
+
+</items>

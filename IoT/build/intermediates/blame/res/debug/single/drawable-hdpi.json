@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/root/AndroidStudioProjects/AndroidTemplate-string/build/intermediates/res/merged/debug/drawable-hdpi/mark.png",
+        "source": "/root/AndroidStudioProjects/AndroidTemplate-string/res/drawable-hdpi/mark.png"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/AndroidTemplate-string/build/intermediates/res/merged/debug/drawable-hdpi/me.png",
+        "source": "/root/AndroidStudioProjects/AndroidTemplate-string/res/drawable-hdpi/me.png"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/AndroidTemplate-string/build/intermediates/res/merged/debug/drawable-hdpi/wxpay.png",
+        "source": "/root/AndroidStudioProjects/AndroidTemplate-string/res/drawable-hdpi/wxpay.png"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/AndroidTemplate-string/build/intermediates/res/merged/debug/drawable-hdpi/uppay.png",
+        "source": "/root/AndroidStudioProjects/AndroidTemplate-string/res/drawable-hdpi/uppay.png"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/AndroidTemplate-string/build/intermediates/res/merged/debug/drawable-hdpi/ic_top_bar.png",
+        "source": "/root/AndroidStudioProjects/AndroidTemplate-string/res/drawable-hdpi/ic_top_bar.png"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/AndroidTemplate-string/build/intermediates/res/merged/debug/drawable-hdpi/order_record.png",
+        "source": "/root/AndroidStudioProjects/AndroidTemplate-string/res/drawable-hdpi/order_record.png"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/AndroidTemplate-string/build/intermediates/res/merged/debug/drawable-hdpi/arrow_right_gray.png",
+        "source": "/root/AndroidStudioProjects/AndroidTemplate-string/res/drawable-hdpi/arrow_right_gray.png"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/AndroidTemplate-string/build/intermediates/res/merged/debug/drawable-hdpi/order.png",
+        "source": "/root/AndroidStudioProjects/AndroidTemplate-string/res/drawable-hdpi/order.png"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/AndroidTemplate-string/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/root/AndroidStudioProjects/AndroidTemplate-string/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/AndroidTemplate-string/build/intermediates/res/merged/debug/drawable-hdpi/line_0.png",
+        "source": "/root/AndroidStudioProjects/AndroidTemplate-string/res/drawable-hdpi/line_0.png"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/AndroidTemplate-string/build/intermediates/res/merged/debug/drawable-hdpi/bustype.png",
+        "source": "/root/AndroidStudioProjects/AndroidTemplate-string/res/drawable-hdpi/bustype.png"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/AndroidTemplate-string/build/intermediates/res/merged/debug/drawable-hdpi/alipay.png",
+        "source": "/root/AndroidStudioProjects/AndroidTemplate-string/res/drawable-hdpi/alipay.png"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/AndroidTemplate-string/build/intermediates/res/merged/debug/drawable-hdpi/lead.png",
+        "source": "/root/AndroidStudioProjects/AndroidTemplate-string/res/drawable-hdpi/lead.png"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/AndroidTemplate-string/build/intermediates/res/merged/debug/drawable-hdpi/img_common_man.png",
+        "source": "/root/AndroidStudioProjects/AndroidTemplate-string/res/drawable-hdpi/img_common_man.png"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/AndroidTemplate-string/build/intermediates/res/merged/debug/drawable-hdpi/doctor.png",
+        "source": "/root/AndroidStudioProjects/AndroidTemplate-string/res/drawable-hdpi/doctor.png"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/AndroidTemplate-string/build/intermediates/res/merged/debug/drawable-hdpi/book_read.png",
+        "source": "/root/AndroidStudioProjects/AndroidTemplate-string/res/drawable-hdpi/book_read.png"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/AndroidTemplate-string/build/intermediates/res/merged/debug/drawable-hdpi/divider.png",
+        "source": "/root/AndroidStudioProjects/AndroidTemplate-string/res/drawable-hdpi/divider.png"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/AndroidTemplate-string/build/intermediates/res/merged/debug/drawable-hdpi/notice.png",
+        "source": "/root/AndroidStudioProjects/AndroidTemplate-string/res/drawable-hdpi/notice.png"
+    }
+]

@@ -1,0 +1,148 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!-- 标题栏 -->
+    <LinearLayout
+        android:id="@+id/title_ll"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:orientation="horizontal"
+        android:background="@color/mainBg">
+        <TextView
+            android:id="@+id/left_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:textColor="@android:color/white"
+            android:paddingLeft="10dp"
+            android:gravity="center"
+            android:drawableLeft="@drawable/back"
+            android:drawablePadding="5dp"
+            android:textSize="@dimen/text_small"
+            android:text="Back"/>
+
+        <TextView
+            android:id="@+id/title_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:textColor="@android:color/white"
+            android:gravity="center"
+            android:textSize="@dimen/text_common"
+            android:text="Monitor"/>
+
+        <TextView
+            android:id="@+id/right_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:textColor="@android:color/white"
+            android:paddingRight="10dp"
+            android:gravity="center"
+            android:textSize="@dimen/text_small"
+            android:text="操作"
+            android:visibility="invisible"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/content_ll"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="@dimen/padding_big"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/upload_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/padding_common"
+            android:layout_marginTop="20dp"
+            android:text="数据上传"
+            android:textSize="@dimen/text_common"
+            android:textColor="@android:color/white"
+            android:background="@drawable/selector_button"
+            android:visibility="gone"/>
+
+        <Button
+            android:id="@+id/download_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/padding_common"
+            android:layout_marginTop="20dp"
+            android:text="开启下载"
+            android:textSize="@dimen/text_common"
+            android:textColor="@android:color/white"
+            android:background="@drawable/selector_button"
+            android:visibility="gone"/>
+
+
+        <Button
+            android:id="@+id/switch_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/padding_common"
+            android:layout_marginTop="20dp"
+            android:text="我要切换了"
+            android:textSize="@dimen/text_common"
+            android:textColor="@android:color/white"
+            android:background="@drawable/selector_button"
+            android:visibility="gone"/>
+
+        <Button
+            android:id="@+id/stop_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/padding_common"
+            android:layout_marginTop="20dp"
+            android:text="切换wifi停止"
+            android:textSize="@dimen/text_common"
+            android:textColor="@android:color/white"
+            android:background="@drawable/selector_button"
+            android:visibility="gone"/>
+
+        <Button
+            android:id="@+id/start_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/padding_common"
+            android:layout_marginTop="20dp"
+            android:text="切换wifi后启动"
+            android:textSize="@dimen/text_common"
+            android:textColor="@android:color/white"
+            android:background="@drawable/selector_button"
+            android:visibility="gone"/>
+
+        <Button
+            android:id="@+id/situation_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/padding_common"
+            android:layout_marginTop="20dp"
+            android:text="比较上传下载情况"
+            android:textSize="@dimen/text_common"
+            android:textColor="@android:color/white"
+            android:background="@drawable/selector_button"
+            android:visibility="gone"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+            <TextView
+                android:id="@+id/msg_tv"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"/>
+            <TextView
+                android:id="@+id/result_tv"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"/>
+        </LinearLayout>
+
+
+
+
+    </LinearLayout>
+
+</LinearLayout>

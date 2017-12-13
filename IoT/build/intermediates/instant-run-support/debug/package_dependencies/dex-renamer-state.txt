@@ -1,0 +1,22 @@
+#Tue Jul 18 16:05:58 AEST 2017
+renamed.6=classes6.dex
+renamed.5=classes2.dex
+renamed.4=classes4.dex
+renamed.3=classes7.dex
+renamed.2=classes5.dex
+renamed.1=classes3.dex
+renamed.0=classes.dex
+base.6=/root/AndroidStudioProjects/AndroidTemplate-string/build/intermediates/transforms/dex/debug/folders/1000/2/universal-image-loader-1.9.3_fbce2152bbc0a8cf762574f500dc21d29394b954
+base.5=/root/AndroidStudioProjects/AndroidTemplate-string/build/intermediates/transforms/dex/debug/folders/1000/2/gson-2.2.2_81d82db90fab8a66b3e3535bed9070062f41341c
+base.4=/root/AndroidStudioProjects/AndroidTemplate-string/build/intermediates/transforms/dex/debug/folders/1000/2/android-async-http-1.4.8_b71c6b1ec2f2009933acfb782aaa969f2aaf1a2d
+base.3=/root/AndroidStudioProjects/AndroidTemplate-string/build/intermediates/transforms/dex/debug/folders/1000/2/butterknife-7.0.1_490210c12e667238492a447b60c51e4fa24f2365
+base.2=/root/AndroidStudioProjects/AndroidTemplate-string/build/intermediates/transforms/dex/debug/folders/1000/2/android-support-v4_4cbf8f93231a8ec99eb127c588346d0edd4c821d
+base.1=/root/AndroidStudioProjects/AndroidTemplate-string/build/intermediates/transforms/dex/debug/folders/1000/2/mail_19ffc2675bda2bc372c8faa63ab165fb61a7b0eb
+base.0=/root/AndroidStudioProjects/AndroidTemplate-string/build/intermediates/transforms/dex/debug/folders/1000/2/httpclient-4.3.6_aceac1c457c3f4032c877641ac87687012c181cb
+file.6=/root/AndroidStudioProjects/AndroidTemplate-string/build/intermediates/transforms/dex/debug/folders/1000/2/universal-image-loader-1.9.3_fbce2152bbc0a8cf762574f500dc21d29394b954/classes.dex
+file.5=/root/AndroidStudioProjects/AndroidTemplate-string/build/intermediates/transforms/dex/debug/folders/1000/2/gson-2.2.2_81d82db90fab8a66b3e3535bed9070062f41341c/classes.dex
+file.4=/root/AndroidStudioProjects/AndroidTemplate-string/build/intermediates/transforms/dex/debug/folders/1000/2/android-async-http-1.4.8_b71c6b1ec2f2009933acfb782aaa969f2aaf1a2d/classes.dex
+file.3=/root/AndroidStudioProjects/AndroidTemplate-string/build/intermediates/transforms/dex/debug/folders/1000/2/butterknife-7.0.1_490210c12e667238492a447b60c51e4fa24f2365/classes.dex
+file.2=/root/AndroidStudioProjects/AndroidTemplate-string/build/intermediates/transforms/dex/debug/folders/1000/2/android-support-v4_4cbf8f93231a8ec99eb127c588346d0edd4c821d/classes.dex
+file.1=/root/AndroidStudioProjects/AndroidTemplate-string/build/intermediates/transforms/dex/debug/folders/1000/2/mail_19ffc2675bda2bc372c8faa63ab165fb61a7b0eb/classes.dex
+file.0=/root/AndroidStudioProjects/AndroidTemplate-string/build/intermediates/transforms/dex/debug/folders/1000/2/httpclient-4.3.6_aceac1c457c3f4032c877641ac87687012c181cb/classes.dex

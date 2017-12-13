@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/root/AndroidStudioProjects/AndroidTemplate-string/build/intermediates/res/merged/debug/layout/a_activity_register.xml",
+        "source": "/root/AndroidStudioProjects/AndroidTemplate-string/res/layout/a_activity_register.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/AndroidTemplate-string/build/intermediates/res/merged/debug/layout/b_activity_main.xml",
+        "source": "/root/AndroidStudioProjects/AndroidTemplate-string/res/layout/b_activity_main.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/AndroidTemplate-string/build/intermediates/res/merged/debug/layout/a_activity_update_user.xml",
+        "source": "/root/AndroidStudioProjects/AndroidTemplate-string/res/layout/a_activity_update_user.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/AndroidTemplate-string/build/intermediates/res/merged/debug/layout/a_activity_personal.xml",
+        "source": "/root/AndroidStudioProjects/AndroidTemplate-string/res/layout/a_activity_personal.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/AndroidTemplate-string/build/intermediates/res/merged/debug/layout/a_activity_home.xml",
+        "source": "/root/AndroidStudioProjects/AndroidTemplate-string/res/layout/a_activity_home.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/AndroidTemplate-string/build/intermediates/res/merged/debug/layout/a_item_home.xml",
+        "source": "/root/AndroidStudioProjects/AndroidTemplate-string/res/layout/a_item_home.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/AndroidTemplate-string/build/intermediates/res/merged/debug/layout/activity_socket.xml",
+        "source": "/root/AndroidStudioProjects/AndroidTemplate-string/res/layout/activity_socket.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/AndroidTemplate-string/build/intermediates/res/merged/debug/layout/b_activity_desc.xml",
+        "source": "/root/AndroidStudioProjects/AndroidTemplate-string/res/layout/b_activity_desc.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/AndroidTemplate-string/build/intermediates/res/merged/debug/layout/a_dialog_custom.xml",
+        "source": "/root/AndroidStudioProjects/AndroidTemplate-string/res/layout/a_dialog_custom.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/AndroidTemplate-string/build/intermediates/res/merged/debug/layout/a_activity_login.xml",
+        "source": "/root/AndroidStudioProjects/AndroidTemplate-string/res/layout/a_activity_login.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/AndroidTemplate-string/build/intermediates/res/merged/debug/layout/a_activity_update_password.xml",
+        "source": "/root/AndroidStudioProjects/AndroidTemplate-string/res/layout/a_activity_update_password.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/AndroidTemplate-string/build/intermediates/res/merged/debug/layout/item_wifi.xml",
+        "source": "/root/AndroidStudioProjects/AndroidTemplate-string/res/layout/item_wifi.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/AndroidTemplate-string/build/intermediates/res/merged/debug/layout/a_activity_find_password.xml",
+        "source": "/root/AndroidStudioProjects/AndroidTemplate-string/res/layout/a_activity_find_password.xml"
+    }
+]

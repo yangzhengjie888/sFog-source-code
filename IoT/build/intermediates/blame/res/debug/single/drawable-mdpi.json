@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/root/AndroidStudioProjects/AndroidTemplate-string/build/intermediates/res/merged/debug/drawable-mdpi/star.png",
+        "source": "/root/AndroidStudioProjects/AndroidTemplate-string/res/drawable-mdpi/star.png"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/AndroidTemplate-string/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/root/AndroidStudioProjects/AndroidTemplate-string/res/drawable-mdpi/ic_launcher.png"
+    }
+]

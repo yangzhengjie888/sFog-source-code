@@ -1,0 +1,66 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:id="@+id/content_ll"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:padding="@dimen/padding_big"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/hint_msg_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="是否收藏"
+            android:paddingBottom="@dimen/padding_common"
+            android:textSize="@dimen/text_big"
+            android:visibility="gone"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/padding_common"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="WiFi Passwords："/>
+            <EditText
+                android:id="@+id/password_et"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="No need to enter if there is no password"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center">
+            <Button
+                android:id="@+id/ok_btn"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:text="Yes"
+                android:textSize="@dimen/text_common"
+                android:textColor="@android:color/white"
+                android:background="@drawable/selector_button"
+                android:layout_marginRight="30dp"
+                />
+            <Button
+                android:id="@+id/cancel_btn"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:text="No"
+                android:textSize="@dimen/text_common"
+                android:textColor="@android:color/white"
+                android:background="@drawable/selector_button"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>
